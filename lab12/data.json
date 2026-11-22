@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "title": "Борщ",
+    "category": "обед",
+    "amount": 6,
+    "completed": true
+  },
+  {
+    "id": 2,
+    "title": "Омлет с сыром",
+    "category": "завтрак",
+    "amount": 2,
+    "completed": true
+  },
+  {
+    "id": 3,
+    "title": "Паста карбонара",
+    "category": "обед",
+    "amount": 4,
+    "completed": false
+  },
+  {
+    "id": 4,
+    "title": "Сырники",
+    "category": "завтрак",
+    "amount": 3,
+    "completed": false
+  }
+]
